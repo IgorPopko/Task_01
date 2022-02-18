@@ -1,2 +1,2 @@
 # firstrep
-my first repository
+my hpmework
